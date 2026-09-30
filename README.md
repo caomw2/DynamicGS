@@ -1,2 +1,2 @@
-Source code for the paper entitled "MotionGS: Spatiotemporal Motion Distillation for Dynamic Scene Rendering with Gaussian Splatting".
-If you have any quation, please feel free to contact Mingwei Cao by E-mail(cmw@ahu.edu.cn).
+Source code for the paper entitled "DynamicGS: Spatiotemporal Motion Distillation for Dynamic Scene Rendering with Gaussian Splatting".
+If you have any questions, please contact Mingwei Cao by email (cmw@ahu.edu.cn).
